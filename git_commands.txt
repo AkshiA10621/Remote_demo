@@ -1,0 +1,178 @@
+    1  git --version
+    2  pwd
+    3  cd "H:\Git_Session"
+    4  mkdir projects
+    5  ls
+    6  cd projects
+    7  pwd
+    8  git version
+    9  cd
+   10  pwd
+   11  ls
+   12  ls -al
+   13  find ~ -name*config
+   14  find ~ -name *config
+   15  find ~ -name *config
+   16  find ~ -name *config
+   17  find ~ -name *config
+   18  pwd
+   19  find ~ -name  *config
+   20  find ~ - name *config
+   21  find ~ - name * config
+   22  git config --global user.name "Akshita"
+   23  git config --global user.name "AkshiA10621"
+   24  git config --global user.email "akshita_chauhan@persistent.com"
+   25  git config --global --list
+   26  git clone "https://github.com/AkshiA10621/github_demo'
+git clone "https://github.com/AkshiA10621/github_demo"
+
+;
+   27  git clone "https://github.com/AkshiA10621/github_demo"
+   28  h
+   29  h:
+   30  cd h:
+   31  cd Git_Session
+   32  ls
+   33  cd projects
+   34  ls
+   35  cd..
+   36  cd ..
+   37  ls
+   38  cd projects
+   39  pwd
+   40  cd ..
+   41  cd github_demo
+   42  ls
+   43   git clone "https://github.com/AkshiA10621/github_demo"
+   44  ls
+   45  cd github_demo/
+   46  ls
+   47  git status
+   48  echo "Test git quick start demo" >> start.txt
+   49  ls
+   50  cat start.txt
+   51  git status
+   52  git add start.txt
+   53  git status
+   54  man git
+   55  git man
+   56  git --help
+   57  git help head
+   58  git help pull
+   59  git status
+   60* git commit -m "adding start test file2"
+   61  git status
+   62  ls
+   63  cat start.txt
+   64  cd .git
+   65  ls -l
+   66  cd ..
+   67  ls -al
+   68  cd .git
+   69  find ~ -name start.txt
+   70  find ~ - name start.txt
+   71  cd ..
+   72  find ~ -name start.txt
+   73  ls
+   74  cat start.txt
+   75  cd .git
+   76  git push origin
+   77  git push origin master
+   78  cd ..
+   79  git push origin master
+   80  cd .git
+   81  git push origin master
+   82  clear
+   83  clear
+   84  cd ..
+   85  git status
+   86  echo "Second file" >> second.txt
+   87  ls
+   88  git status
+   89  git add second.txt
+   90  git commit -m "Adding second line"
+   91  git status
+   92  cd .git
+   93  git push origin master
+   94  history
+   95  history >> commands.txt
+   96  notepad++
+   97  notepad ++
+   98  cd ..
+   99  cd ..
+  100  cd
+  101  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  102  git config --global --list
+  103  npp .git config
+  104  npp .gitconfig
+  105  npp .gitconfig
+  106  vi 
+  107  alias npp='notepad++.exe -multiInst -nosession'
+  108  vi ~/.bashrc
+  109  vi ~/.gitconfig
+  110  pwd
+  111  cd h:
+  112  cd Git_Sessioncd Git_Session
+  113  cd Git_Session
+  114  ls
+  115  cd projects
+  116  git init "fresh-project"
+  117  ls
+  118  cd fresh-project
+  119  ls
+  120  ls -al
+  121  cd .git
+  122  ls -a
+  123  cd ..
+  124  cd ..
+  125  git status
+  126  cd fresh-project
+  127  git status
+  128  vi hipster.txt
+  129  git status
+  130  git add hipster.txt
+  131  git status
+  132  git commit 
+  133  vi ~/.gitconfig
+  134  alias editor=vim 
+  135  export editor
+  136  git commit 
+  137  vi ~/.gitconfig
+  138  git commit
+  139  git status
+  140  ls
+  141  git push origin master
+  142  cd .git
+  143  git push origin master
+  144  cd ..
+  145  git push fresh-project
+  146  cd .git
+  147  git push fresh-project
+  148  cd ..
+  149  ls
+  150  pwd
+  151  cd ..
+  152  git push fresh-project
+  153  cd .git
+  154  ls -a
+  155  cd ..
+  156  ls -a
+  157  ls -al
+  158  cd projects
+  159  ls -al
+  160  cd fresh-project
+  161  cd .git
+  162  git remote "https://github.com/AkshiA10621/github_demo"
+  163  git remote add fresh-remote "https://github.com/AkshiA10621/github_demo"
+  164  git push fresh-remote
+  165  cd ..
+  166  cd ../..
+  167  ls
+  168  unzip ~/initializr-verekia-4.0.zip
+  169  ls
+  170  mv initializr web-project
+  171  ls
+  172  cd web-project
+  173  ls
+  174  git init 
+  175  history >> git_commands.txt
